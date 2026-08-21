@@ -12,7 +12,7 @@
 ### Thành viên
 
 1. Nguyễn Hữu Lộc - MSSV: 3120225083 - Nhóm trưởng
-2. Phan Thị Diệu Hoa - MSSV: 312054787
+2. Phan Thị Diệu Hoa - MSSV: 3120225054
 3. Lê Thị Thu Phương - MSSV: 3120225122
 4. Trần Văn Thanh - MSSV: 3120225140
 
