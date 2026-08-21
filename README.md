@@ -11,10 +11,10 @@
 
 ### Thành viên
 
-1. Nguyễn Hữu Lộc - MSSV: 7257984 - Nhóm trưởng
+1. Nguyễn Hữu Lộc - MSSV: 3120225083 - Nhóm trưởng
 2. Phan Thị Diệu Hoa - MSSV: 312054787
-3. Lê Thị Thu Phương - MSSV: 43574984
-4. Trần Văn Thanh - MSSV: 23859742
+3. Lê Thị Thu Phương - MSSV: 3120225122
+4. Trần Văn Thanh - MSSV: 3120225140
 
 ### Phân công
 
@@ -67,9 +67,9 @@ Các trường chính:
 
 ### Báo cáo
 
-- /Nhom05_DT25_BaoCao.pdf
-- /Nhom05_DT25_BaoCao.docx
-
+- ./Nhom05_DT25_BaoCao.pdf
+- ./Nhom05_DT25_BaoCao.docx
+Hiện thị thêm dòng
 ### Công cụ hỗ trợ
 
 Nhóm sử dụng Microsoft Copilot và Claude để hỗ trợ lập kế hoạch, rà soát cấu trúc, xây dựng mã và kiểm tra tính nhất quán. Các thành viên chịu trách nhiệm chạy lại, kiểm tra và giải thích toàn bộ sản phẩm khi vấn đáp.
