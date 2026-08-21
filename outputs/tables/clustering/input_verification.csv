@@ -1,0 +1,5 @@
+File,Candidate,Rows,Customers,Missing,Infinite,SHA256,Status
+rfm_customers.csv,RFM_REFERENCE,4338,4338,0,0,88070021d1cd8f93beed32baa6a31079f57adfc670c2991b13f1a9f47a89154c,PASS
+rfm_standard_raw.csv,STANDARD_RAW,4338,4338,0,0,effab34adec2fa8d06a29d25b9b43e3809bdbfac134e005ece721cc330caf81c,PASS
+rfm_log_standard.csv,LOG_STANDARD,4338,4338,0,0,1c676a7a5e9c365598ddac46f94295243de3e907cbe1ddb5b93f75de11080542,PASS
+rfm_robust_raw.csv,ROBUST_RAW,4338,4338,0,0,a2b6c8d11ea604270bd6e094085dc628f641421f93d65b283ef5565a60a67817,PASS

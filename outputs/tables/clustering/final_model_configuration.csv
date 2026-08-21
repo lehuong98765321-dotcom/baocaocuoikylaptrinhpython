@@ -1,0 +1,2 @@
+SelectedPreprocessing,SelectedK,Init,NInit,MaxIter,RandomState,Algorithm,Silhouette,DaviesBouldin,CalinskiHarabasz,Inertia,Iterations,RuntimeSeconds,ClusterNamesCreated,PCACreated
+LOG_STANDARD,2,k-means++,20,500,42,lloyd,0.43250906819167395,0.8912650182014639,4376.832376623863,6476.5069370535475,6,0.04661453300013818,NO,NO

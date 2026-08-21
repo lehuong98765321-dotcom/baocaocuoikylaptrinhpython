@@ -1,0 +1,13 @@
+Path,Exists,SizeBytes,Readable,Rows,Status
+outputs/tables/clustering/model_selection_decision.csv,True,818,True,1,PASS
+outputs/tables/clustering/ari_stability_matrix.csv,True,8745,True,294,PASS
+outputs/tables/clustering/final_model_configuration.csv,True,325,True,1,PASS
+outputs/tables/clustering/stage8_acceptance_matrix.csv,True,223,True,7,PASS
+outputs/tables/clustering/kmeans_metrics_all.csv,True,5720,True,27,PASS
+outputs/tables/clustering/multi_seed_stability.csv,True,8494,True,42,PASS
+outputs/tables/clustering/tiny_cluster_review.csv,True,2686,True,26,PASS
+outputs/tables/clustering/elbow_candidates.csv,True,1497,True,27,PASS
+outputs/tables/clustering/input_verification.csv,True,527,True,4,PASS
+outputs/tables/clustering/cluster_size_analysis.csv,True,2686,True,26,PASS
+outputs/tables/clustering/candidate_selection_matrix.csv,True,9204,True,27,PASS
+data/processed/kmeans_customer_assignments.csv,True,199925,True,4338,PASS

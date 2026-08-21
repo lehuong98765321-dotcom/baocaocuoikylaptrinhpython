@@ -1,0 +1,8 @@
+CheckID,Condition,Status
+S8-01,Three candidates,PASS
+S8-02,Full k grid,PASS
+S8-03,Unique selected model,PASS
+S8-04,Assignment rows,PASS
+S8-05,No empty clusters,PASS
+S8-06,Stability exists,PASS
+S8-07,No ClusterName/PCA,PASS

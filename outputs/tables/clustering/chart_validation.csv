@@ -1,0 +1,9 @@
+Path,SizeBytes,Width,Height,Status
+outputs/figures/clustering/calinski_harabasz_comparison.png,84208,1440,800,PASS
+outputs/figures/clustering/cluster_size_comparison.png,61617,1760,800,PASS
+outputs/figures/clustering/davies_bouldin_comparison.png,83450,1440,800,PASS
+outputs/figures/clustering/elbow_log_standard.png,48153,1280,800,PASS
+outputs/figures/clustering/elbow_robust_raw.png,54673,1280,800,PASS
+outputs/figures/clustering/elbow_standard_raw.png,53665,1280,800,PASS
+outputs/figures/clustering/silhouette_comparison.png,78074,1440,800,PASS
+outputs/figures/clustering/stability_comparison.png,46895,1600,800,PASS
