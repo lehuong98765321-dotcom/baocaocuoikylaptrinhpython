@@ -67,8 +67,8 @@ Các trường chính:
 
 ### Báo cáo
 
-- `Nhom05_DT25_BaoCao.pdf`
-- `Nhom05_DT25_BaoCao.docx`
+- /Nhom05_DT25_BaoCao.pdf
+- /Nhom05_DT25_BaoCao.docx
 
 ### Công cụ hỗ trợ
 
